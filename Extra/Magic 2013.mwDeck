@@ -1,0 +1,29 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+
+// Lands
+    7 [AVR] Swamp (1)
+    4 [GTC] Dimir Guildgate
+    4 [GTC] Watery Grave
+    7 [ISD] Island (1)
+
+// Creatures
+    4 [RTR] Hover Barrier
+    2 [GTC] Mindeye Drake
+    2 [GTC] Consuming Aberration
+    4 [M13] Fog Bank
+
+// Spells
+    4 [M13] Mind Sculpt
+    4 [RTR] Destroy the Evidence
+    2 [GTC] Coerced Confession
+    4 [GTC] Psychic Strike
+    4 [RTR] Syncopate
+    4 [RTR] Cancel
+    4 [M13] Index
+
+// Sideboard
+SB: 2 [M13] Redirect
+SB: 3 [GTC] Rapid Hybridization
+SB: 3 [M13] Negate
+SB: 4 [RTR] Dispel
+SB: 3 [RTR] Blustersquall
